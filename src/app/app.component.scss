@@ -28,8 +28,18 @@
     .owl-nav{
         .owl-prev{
             border-radius: 50% !important;
+            background-color: #9400D3;
+            &.disabled{
+                pointer-events: none;
+                opacity: 0.25;
+            }
         }.owl-next{
             border-radius: 50% !important;
+            background-color: #9400D3;
+            &.disabled{
+                pointer-events: none;
+                opacity: 0.25;
+            }
         }
     }
 }
