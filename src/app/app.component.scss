@@ -24,3 +24,12 @@
         color: orange;
     }
 }
+:host::ng-deep {
+    .owl-nav{
+        .owl-prev{
+            border-radius: 50% !important;
+        }.owl-next{
+            border-radius: 50% !important;
+        }
+    }
+}

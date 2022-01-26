@@ -11,7 +11,7 @@ export class AppComponent {
   customOptions: OwlOptions = {
     dots: false,
     navSpeed: 700,
-    navText: ['', ''],
+      navText: ["<div class='nav-button owl-prev'>‹</div>", "<div class='nav-button owl-next'>›</div>"],
     responsive: {
       0: {
         items: 1
