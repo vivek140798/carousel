@@ -28,14 +28,14 @@
     .owl-nav{
         .owl-prev{
             border-radius: 50% !important;
-            background-color: #9400D3;
+            background-color: #9400D3 !important;
             &.disabled{
                 pointer-events: none;
                 opacity: 0.25;
             }
         }.owl-next{
             border-radius: 50% !important;
-            background-color: #9400D3;
+            background-color: #9400D3 !important;
             &.disabled{
                 pointer-events: none;
                 opacity: 0.25;
