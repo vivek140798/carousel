@@ -25,26 +25,26 @@ export class AppComponent {
     },
     nav: true
   }
-  private reviews = [{
-    rating: 3,
+  reviews = [{
+    rating: 1,
     review: 'My wife and I unequivocally recommend anyone interested in purchasing solar for their home to work through Electrum. Even if you are well informed about the options, your life will be made much easier',
     name: 'JOHN FREY',
     date: '2021-06-01'
   },
   {
-    rating: 4,
+    rating: 2,
     review: 'My wife and I unequivocally recommend anyone interested in purchasing solar for their home to work through Electrum. Even if you are well informed about the options, your life will be made much easier',
     name: 'JOHN two',
     date: '2021-06-01'
   },
   {
-    rating: 5,
+    rating: 3,
     review: 'My wife and I unequivocally recommend anyone interested in purchasing solar for their home to work through Electrum. Even if you are well informed about the options, your life will be made much easier',
     name: 'JOHN three',
     date: '2021-06-01'
   },
   {
-    rating: 5,
+    rating: 4,
     review: 'My wife and I unequivocally recommend anyone interested in purchasing solar for their home to work through Electrum. Even if you are well informed about the options, your life will be made much easier',
     name: 'JOHN four',
     date: '2021-06-01'
@@ -56,13 +56,13 @@ export class AppComponent {
     date: '2021-06-01'
   },
   {
-    rating: 5,
+    rating: 4,
     review: 'My wife and I unequivocally recommend anyone interested in purchasing solar for their home to work through Electrum. Even if you are well informed about the options, your life will be made much easier',
     name: 'JOHN six',
     date: '2021-06-01'
   },
   {
-    rating: 5,
+    rating: 3,
     review: 'My wife and I unequivocally recommend anyone interested in purchasing solar for their home to work through Electrum. Even if you are well informed about the options, your life will be made much easier',
     name: 'JOHN seven',
     date: '2021-06-01'
